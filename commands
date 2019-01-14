@@ -1,0 +1,11 @@
+//Instalar express y morgan
+npm i express morgan
+
+//instalar nodemon
+npm i nodemon -D
+
+//instalar underscore
+npm i underscore
+
+//instalar node-fetch 
+npm i node-fetch
